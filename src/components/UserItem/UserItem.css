@@ -1,0 +1,11 @@
+.user-item-container {
+  margin: 0px 50px 0px 20px;
+  padding: 20px 20px 20px 20px;
+  border: solid gray 1px;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.user-item-container:hover {
+  background-color: #ccc;
+}
